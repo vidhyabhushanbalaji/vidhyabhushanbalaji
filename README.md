@@ -13,4 +13,4 @@ Have a look at our repository from the link in the title, or [see our devpost su
 
 ### [HelpMeTutor](https://github.com/vidhyabhushanbalaji/tutoring)
 I got frustrated with how long it was taking me to keep records of my tutoring client's lessons, payments and scheduling so made this to help.
-I learnt a lot through this project on how the full stack engineering process works, including a Node.js backend, React frontend, Supabase DB and Vercel hosting. I'd never used any of these before, and learnt slowly and properly how these all fit together. Have a look at the repo in the link above
+I learnt a lot through this project on how the full stack engineering process works, including a Node.js backend, React frontend, Supabase DB and Vercel hosting. I'd never used any of these before, and learnt slowly and properly how these all fit together. Have a look at the repo in the link above, writing this (mostly) manually taught me a lot about how these systems work.
