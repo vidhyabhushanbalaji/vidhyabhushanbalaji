@@ -11,6 +11,7 @@ Mine and Charles Davis submission to DurHack 2026, for Accenture's prompt to use
 We spent time speaking to Accenture's SWEs to understand what the main pain points in day to day work were, and identified large difficulties in identifying the files they need, and waste time in identifying them due to search processes which return thousands of results, when just one file is needed. JYTeams takes a directory of files and stores cached analysis at each directory, to allow faster access to the right information from a dedicated search function, or direct integration into tickets.
 While it didn't win any awards, we received strong feedback that "I could see myself using this" from one of the Accenture judges.
 Have a look at our repository from the link in the title, or [see our devpost submission here](https://devpost.com/software/JYTeams)
+Built with Python, Electron, FastAPI, Gemini, Tailwind, Typescript, React.
 
 ### [CreditMate](https://github.com/charles-h-davis/JYCreditAssistant)
 Mine and Charles Davis submission to WHACK 2026 which achieved 3rd place on Capital One's track. 
@@ -23,3 +24,10 @@ I got frustrated with how long it was taking me to keep records of my tutoring c
 I learnt a lot through this project on how the full stack engineering process works, including a Node.js backend, React frontend, Supabase DB and Vercel hosting. I'd never used any of these before, and learnt slowly and properly how these all fit together.
 I really love this project - even though it isn't very technically difficult, the amount that I learnt was really useful, and I love having my own custom software which I use every week when tutoring.
 Have a look at the repo in the link above, writing this (mostly) manually taught me a lot about how these systems work.
+
+
+### [Organise My Career]([https://devpost.com/software/omc-organise-my-career])
+Team submission to HackLondon 2026 from myself, Seif Ali Esmael, Alistair Hanlon and Charlie Davis. 
+We noticed how students often have large goals in life, like career aspirations, which they never manage to achieve because the plan's they are given are incredibly vague, and there is no day to day accountability.
+We built a Flutter app, with a PHP backend, connected to a MySQL database, and used connections to Claude API with cached prompts to enable functionality. 
+I was personally responsible for the user signup quiz, and matching to potential careers, alongside frontend design and creation for all the pages.
