@@ -26,7 +26,7 @@ I really love this project - even though it isn't very technically difficult, th
 Have a look at the repo in the link above, writing this (mostly) manually taught me a lot about how these systems work.
 
 
-### [Organise My Career]([https://devpost.com/software/omc-organise-my-career])
+### [Organise My Career](https://devpost.com/software/omc-organise-my-career)
 Team submission to HackLondon 2026 from myself, Seif Ali Esmael, Alistair Hanlon and Charlie Davis. 
 We noticed how students often have large goals in life, like career aspirations, which they never manage to achieve because the plan's they are given are incredibly vague, and there is no day to day accountability.
 We built a Flutter app, with a PHP backend, connected to a MySQL database, and used connections to Claude API with cached prompts to enable functionality. 
